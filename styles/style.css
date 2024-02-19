@@ -8,6 +8,11 @@
 }
 /* navbar styling started */
 
+#navbar{
+    gap: 500px;
+    
+    
+}
 #nav-first-button{
     border-radius: 50px;
     padding: 10px 30px;
@@ -18,10 +23,16 @@
 
 #nav-second-button{
     border-radius: 50px;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border: 0px;
     background-color: #502314;
     color: white;
+}
+#nav-icon{
+    width: 200px;
+}
+#nav-button{
+    gap: 20px
 }
 /* navbar styling ended */
 
